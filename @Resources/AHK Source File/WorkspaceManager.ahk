@@ -50,12 +50,26 @@ RainmeterWindowMessage(wParam, lParam) {
 			WinActivate, ahk_id %mouseOverSaveLastActiveHwnd%
 			return
 		}
-		If (direction = 0)
-			return
-		Else If (direction > 0)
-			Send ^#{Right}
+		If (lParam=1)
+			Send #1
+		Else If (lParam=2)
+			Send #2
+		Else If (lParam=3)
+			Send #3
+		Else If (lParam=4)
+			Send #4
+		Else If (lParam=5)
+			Send #5
+		Else If (lParam=6)
+			Send #6
+		Else If (lParam=7)
+			Send #7
+		Else If (lParam=8)
+			Send #8
+		Else If (lParam=9)
+			Send #9
 		Else
-			Send ^#{Left}
+			Send #0
 		_ChangeDesktop(lParam)
 	}
 	If (wParam = 3) {

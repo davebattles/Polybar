@@ -6,10 +6,10 @@ Bar_OffsetX =0
 Bar_OffsetY =0
 
 Color_Scheme1 =292828
-Color_Scheme2 =D4BE98
+Color_Scheme2 =B8A584
 Color_Scheme3 =7DAEA3
 Color_Scheme4 =FFFFFF
-Color_Scheme5 =EA6962
+Color_Scheme5 =C2534E
 
 Font_Face=siji
 Font_Face2=FontAwesome
