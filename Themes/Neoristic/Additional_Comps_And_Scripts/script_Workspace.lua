@@ -29,7 +29,7 @@ function Update()
 end
 
 timing = 0
-maxTime = 40
+maxTime = 5
 function ChangeWorkspaceAnimation()
 	if timing > 0 and timing < maxTime then
 		timing = timing + 1
