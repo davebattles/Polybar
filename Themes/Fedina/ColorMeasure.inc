@@ -1,5 +1,5 @@
 [Variables]
-colormeasure_x=0
+colormeasure_x=580
 
 [Metadata]
 Name=Fedina\\Color Measure
