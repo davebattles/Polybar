@@ -1,7 +1,7 @@
 [Variables]
 Bar_Opacity=4e
 Bar_Width =3440
-Bar_Height =50
+Bar_Height =29
 Bar_OffsetX =0
 Bar_OffsetY =0
 

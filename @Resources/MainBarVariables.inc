@@ -1,4 +1,4 @@
 [Variables]
-Theme =Neoristic
+Theme =Gruvbox
 ;This variables is for tracking which modules are added and do not have ability to add or remove modules, so do not touch it. 
-AddedModule=startmenu,workspacemanager,tray,music,time,date,volume,taskbar,weather,mail
+AddedModule=volume,tray,startmenu,time,workspacemanager,weather,uptime,allergy,date,stock
