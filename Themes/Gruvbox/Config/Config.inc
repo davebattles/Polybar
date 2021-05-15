@@ -21,5 +21,5 @@ Font_Size2=9
 Shadow=0
 Translucent=0
 
-DefaultAddedModules=volume,tray,time,workspacemanager,weather,uptime,allergy,date,stock,netspeed,crypto,awesome,crypto2
+DefaultAddedModules=volume,tray,time,workspacemanager,weather,uptime,allergy,date,stock,netspeed,crypto,awesome
 
